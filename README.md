@@ -1,1 +1,1 @@
-# 张硕的网上自留地
+<script language="javascript"> location.replace("") </script>
