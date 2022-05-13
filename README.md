@@ -1,2 +1,1 @@
-# Page 1
-
+<p style="text-align: center; "><img src="" /></p>
